@@ -1,0 +1,5 @@
+project: jacob-clemente/crackle
+target: crackle
+
+cmds:
+  - cmd: /crackle -i @@ -o out
